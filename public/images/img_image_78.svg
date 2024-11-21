@@ -1,0 +1,45 @@
+<svg width="573" height="251" viewBox="0 0 573 251" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_8_17090)">
+<mask id="mask0_8_17090" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-3" y="1" width="578" height="250">
+<path d="M574.836 1H-2.10596V251H574.836V1Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_8_17090)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M574.836 250.5H-2.10596L-2.10596 249.5H574.836V250.5Z" fill="#DEE1E6"/>
+</g>
+<mask id="mask1_8_17090" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-3" y="0" width="578" height="251">
+<path d="M574.836 0.800049H-2.10596V250.8H574.836V0.800049Z" fill="white"/>
+</mask>
+<g mask="url(#mask1_8_17090)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M574.836 202.3H-2.10596L-2.10596 201.3H574.836V202.3Z" fill="#DEE1E6"/>
+</g>
+<mask id="mask2_8_17090" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-3" y="0" width="578" height="251">
+<path d="M574.836 0.600098H-2.10596V250.6H574.836V0.600098Z" fill="white"/>
+</mask>
+<g mask="url(#mask2_8_17090)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M574.836 152.1H-2.10596L-2.10596 151.1H574.836V152.1Z" fill="#DEE1E6"/>
+</g>
+<mask id="mask3_8_17090" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-3" y="0" width="578" height="251">
+<path d="M574.836 0.399902H-2.10596V250.4H574.836V0.399902Z" fill="white"/>
+</mask>
+<g mask="url(#mask3_8_17090)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M574.836 101.9H-2.10596L-2.10596 100.9H574.836V101.9Z" fill="#DEE1E6"/>
+</g>
+<mask id="mask4_8_17090" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-3" y="0" width="578" height="251">
+<path d="M574.836 0.199951H-2.10596V250.2H574.836V0.199951Z" fill="white"/>
+</mask>
+<g mask="url(#mask4_8_17090)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M574.836 51.7001L-2.10596 51.7L-2.10596 50.7L574.836 50.7001V51.7001Z" fill="#DEE1E6"/>
+</g>
+<mask id="mask5_8_17090" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-3" y="0" width="578" height="250">
+<path d="M574.836 0H-2.10596V250H574.836V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask5_8_17090)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M574.836 1.50005L-2.10596 1.5L-2.10596 0.5L574.836 0.50005V1.50005Z" fill="#DEE1E6"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_8_17090">
+<rect width="573" height="251" fill="white"/>
+</clipPath>
+</defs>
+</svg>
